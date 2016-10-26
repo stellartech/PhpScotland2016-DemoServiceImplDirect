@@ -1,6 +1,6 @@
 {
-	"name": "PhpScotland2016/DemoServiceImpl",
-	"description": "DemoService implementations",
+	"name": "PhpScotland2016/DemoServiceImplDirect",
+	"description": "DemoService implementation direct",
 	"license": "PHP",
 	"keywords": ["phpscotland", "phpscotland2016"],
 	"authors": [{
