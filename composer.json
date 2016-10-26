@@ -22,7 +22,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"PhpScotland2016\\Demo\\Service\\Impls\\Direct\\": "src/"
+			"PhpScotland2016\\Demo\\Service\\Impl\\Direct\\": "src/"
 		}
 	}
 }
